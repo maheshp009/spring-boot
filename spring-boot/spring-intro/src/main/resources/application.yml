@@ -1,0 +1,6 @@
+cust:
+  age:
+    msg: Age is
+    days: 55
+  sal:
+    mo: 15

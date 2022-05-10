@@ -1,0 +1,6 @@
+cust:
+  age:
+    msg: Production Age is
+    days: 999
+  sal:
+    mo: 1111
